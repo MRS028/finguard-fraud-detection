@@ -197,6 +197,66 @@ After running the notebook, figures are exported to:
 
 ---
 
+## 3.1) Quick Figure Preview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="reports/figures/missing_values.png" width="260"><br>
+      <sub>Missing Values</sub>
+    </td>
+    <td align="center">
+      <img src="reports/figures/fraud_distribution.png" width="260"><br>
+      <sub>Fraud Distribution</sub>
+    </td>
+    <td align="center">
+      <img src="reports/figures/transaction_type.png" width="260"><br>
+      <sub>Transaction Type</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="reports/figures/transaction_type_distribution.png" width="260"><br>
+      <sub>Transaction Type Distribution</sub>
+    </td>
+    <td align="center">
+      <img src="reports/figures/amount_analysis.png" width="260"><br>
+      <sub>Amount Analysis</sub>
+    </td>
+    <td align="center">
+      <img src="reports/figures/time_analysis.png" width="260"><br>
+      <sub>Time Analysis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="reports/figures/numeric_distributions.png" width="260"><br>
+      <sub>Numeric Distributions</sub>
+    </td>
+    <td align="center">
+      <img src="reports/figures/outlier_boxplots.png" width="260"><br>
+      <sub>Outlier Boxplots</sub>
+    </td>
+    <td align="center">
+      <img src="reports/figures/correlation_matrix.png" width="260"><br>
+      <sub>Correlation Matrix</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="reports/figures/correlation_with_target.png" width="260"><br>
+      <sub>Correlation with Target</sub>
+    </td>
+    <td align="center">
+      <img src="reports/figures/rule_based_detection.png" width="260"><br>
+      <sub>Rule-Based Detection</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 4) How to Run (VS Code / Windows)
 
 1. Open project in VS Code.
