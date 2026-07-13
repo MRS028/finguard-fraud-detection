@@ -1,0 +1,12 @@
+.vscode/
+.env
+.vscode
+# Dataset
+data/
+data/processed/
+data/interim/
+data/raw/
+*.csv
+*.tsv
+*.json
+*.xlsx
