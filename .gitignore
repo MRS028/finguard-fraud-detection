@@ -10,3 +10,5 @@ data/raw/
 *.tsv
 *.json
 *.xlsx
+models_saved/
+*.pkl
